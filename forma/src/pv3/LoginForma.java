@@ -47,6 +47,9 @@ public class LoginForma extends JDialog {
 
     private void onOK() {
         // add your code here
+        if (usernameTextField.getText().isEmpty() || passwordTextField.getText().isEmpty()) {
+            JOptionPane.showMessageDialog(this, "Unesite sve vrednosti!", "Upozorenje", JOptionPane.WARNING_MESSAGE);
+        }
         dispose();
     }
 
