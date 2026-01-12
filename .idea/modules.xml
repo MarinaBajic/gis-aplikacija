@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/forma/forma.iml" filepath="$PROJECT_DIR$/forma/forma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/gis-aplikacija.iml" filepath="$PROJECT_DIR$/.idea/gis-aplikacija.iml" />
+    </modules>
+  </component>
+</project>
